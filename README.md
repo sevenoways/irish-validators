@@ -12,7 +12,7 @@ Validate and format Irish identifiers. TypeScript, zero dependencies.
 ## Install
 
 ```bash
-npm install github:sevenoways/irish-validators
+npm install irish-validators
 ```
 
 ## Usage
