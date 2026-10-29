@@ -18,7 +18,7 @@
     "prepare": "tsc"
   },
   "keywords": ["ireland", "irish", "eircode", "ppsn", "pps", "iban", "phone", "validation", "postcode"],
-  "author": "Seven O Ways",
+  "author": "Sevenoways Innovations Limited",
   "license": "MIT",
   "repository": {
     "type": "git",

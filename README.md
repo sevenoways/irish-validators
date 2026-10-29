@@ -60,4 +60,4 @@ PRs welcome, especially for area-code formatting and more test fixtures.
 
 ## License
 
-MIT © Seven O Ways
+MIT © Sevenoways Innovations Limited
